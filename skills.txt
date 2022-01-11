@@ -1,4 +1,4 @@
-  Skill_1: Terminal
+   	Skill_1: Terminal
 	Skill_2: GitBash
 	Skill_3: Postman
 	Skill_4: Charles
