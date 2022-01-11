@@ -1,0 +1,6 @@
+Навык1: Terminal
+Навык2: GitBash
+Навык3: Postman
+Навык4: Charles
+Навык5: DevTools
+Навык6: SQL
