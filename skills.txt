@@ -1,6 +1,6 @@
-Навык1: Terminal
-Навык2: GitBash
-Навык3: Postman
-Навык4: Charles
-Навык5: DevTools
-Навык6: SQL
+  Skill_1: Terminal
+	Skill_2: GitBash
+	Skill_3: Postman
+	Skill_4: Charles
+	Skill_5: DevTools
+	Skill_6: SQL
