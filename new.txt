@@ -1,4 +1,4 @@
- ФИО: Степанова-Паршуто Елена Александровна
- Возраст: 35
- Количество домашних животных: 1
- Будущая желаемая зарплата: 1000
+   Name_Surname: Elena_Stepanova-Parshuto
+	  Age: 35
+	  Amount_of_pets: 1
+	  Expected_salary: 1000
