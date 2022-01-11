@@ -1,4 +1,4 @@
-  Favorite_movie: Iron_men
+  	Favorite_movie: Iron_men
 	Favorite_series: The_big_bang_theory
 	Favorite_meal: Potato_cakes
 	Favorite_season: Summer
