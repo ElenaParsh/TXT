@@ -6,7 +6,7 @@ Summary: Articles on start page are not aligned to column width
 Environment:  OS - Windows 10 Pro x64bit, ver. 21H1, OS assembly 19043.906
           Browser -Mozilla Firefox, ver. 88.0.1
 Priority: Low
-Assigned to
+Assigned to: N/A
 Severity: Low
 
   Description
