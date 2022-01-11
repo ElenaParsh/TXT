@@ -1,1 +1,23 @@
-Here dhould be a bug report in txt format
+ID number: BEL-1
+Name: Articles on start page are not aligned to column width
+Reporter: Elena Stepanova-Parshuto     
+Submit Date: Submit 29/05/2021
+Summary: Articles on start page are not aligned to column width
+Environment:  OS - Windows 10 Pro x64bit, ver. 21H1, OS assembly 19043.906
+          Browser -Mozilla Firefox, ver. 88.0.1
+Priority: Low
+Assigned to
+Severity: Low
+
+  Description
+Articles on start page are not aligned to column width
+
+  Steps to reproduce
+> Open link https://www.belta.by
+>  View the page
+
+  Expected result
+Articles are aligned to column width
+
+  Actual result
+Articles on start page are not aligned to column width 
